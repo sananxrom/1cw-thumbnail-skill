@@ -1,0 +1,32 @@
+Mode: built-in image generation tool, single render from original portraits and original series style references.
+Headline, bright lab and visual direction approved by user before generation.
+Episode link: https://www.youtube.com/watch?v=3ZbZBLw86qg&t=1s
+
+Create ONE finished premium photographic 1CW/XROM YouTube podcast thumbnail, exact 16:9 landscape. Single clean render using original portrait references. Episode guest Dr Vijay Raghavan, former Principal Scientific Adviser to the Government of India; topic fruit-fly brains, AI and India's science future. User approved stature-led headline and bright lab visual.
+REFERENCE ROLES:
+1 Vijay Raghavan original portrait: definitive RIGHT guest identity. Preserve actual face, silver swept-back hair, age, complexion, smile, black Nehru waistcoat over white long-sleeve shirt, and crossed-arm pose. Remove brick background, gentle enhancement and natural body extension if needed. No facial makeover.
+2 Original Eddie portrait: PRIMARY LEFT identity anchor. Eddie must unmistakably look like Eddie. Preserve original facial proportions, eyes, nose, mouth, age, skin tone, signature swept-up wavy salt-and-pepper hair, moustache and small grey goatee. Adapt pose conservatively without changing face identity.
+3 AI+XR and 4 robotic-arm finished thumbnails: STYLE ONLY for extraordinarily tall narrow Morganite ExtraBold typography, upward shear, diagonal dark panel, white/yellow-orange hierarchy and photographic collage. Do not copy their guests, props, text, goggles or robot limbs.
+
+APPROVED EXACT FOUR-LINE HEADLINE:
+INDIA’S
+TOP SCIENTIST
+EX-PSA
+GOVT OF INDIA
+No other words or quotation marks.
+First line INDIA’S white MORGANITE EXTRA BOLD, very tall exceptionally narrow condensed heavy strokes.
+Second line TOP SCIENTIST main emphasis in MORGANITE EXTRA BOLD, brilliant yellow at top gently graduating to golden orange at bottom. Keep this phrase compact and readable, not stretched edge to edge; size it to match the central title width.
+Third EX-PSA and fourth GOVT OF INDIA smaller white AVENIR NEXT BOLD, normal-width bold sans-serif, visually grouped together as the former role. Preserve hyphen, no periods needed.
+All four lines centre aligned on one axis, overall group centred on the WHOLE CANVAS, not pushed aside merely to fit subjects. Balance main line widths through font size while maintaining tall condensed shapes, not generic broad block lettering. Approximate central text area x=335–950, y=110–610 on a 1280x720 canvas. Larger headline first two lines, supporting pair much shorter in height but legible. Clear comfortable increased vertical breathing room: about 20–25px between main lines and before the credential pair, 10–14px within credential pair. No touching letters or excessive empty gaps.
+Signature upward-to-right SHEAR about 6.5 degrees, upright vertical letter stems, NOT italic and not simple rotation. Morganite tracking +10 Photoshop units (0.01em subtle). Faded broad translucent near-black diagonal panel behind group gives contrast over bright background; text can extend outside panel edges. Gentle low-opacity soft directional drop shadow down-right, no heavy outlines, extrusion or bevel.
+
+PEOPLE:
+Eddie large LEFT, Vijay large RIGHT, similar head size and balanced visible torso to bottom, outer shoulders edge cropped, heads safely framed. Text can overlap bodies or sit behind a foreground object where legible; keep all faces and wording clear.
+EDDIE: familiar dark textured waistcoat over white short-sleeve T-shirt. Curious absorbed expression close to original portrait. Examines a small clear specimen vial through a handheld magnifying glass. One anatomically correct hand holds transparent vial near inner upper chest, the other holds magnifier a little in front of vial, away from Eddie's face. Eddie looks at the vial, slight inward/downward gaze. Magnifier must NOT cover or distort his eyes or face. Tiny recognizable fruit fly inside the vial visible as a modest magnified silhouette, not a huge monster fly, brain or insect swarm. A realistic lab specimen prop, no glowing potion. Hands correct and natural; props remain within/near left silhouette and do not conceal headline. No headband, goggles, helmet or extra device.
+VIJAY: preserve exact photographic face, warm natural smile, silver hair and source crossed-arm pose. Black Nehru waistcoat and white shirt, natural realistic folded hands. Modest photographic enhancement, no beautification, rejuvenation, changed expression or invented accessories. Expand outfit/body only as needed to fit balanced proportions.
+
+BACKGROUND:
+BRIGHT PREMIUM LABORATORY as explicitly requested. Soft daylight, white work surfaces and pale cyan architectural accents, gentle room depth. One softly out-of-focus microscope in distance, restrained glassware at most. Luminous high-key laboratory atmosphere, NOT dark blue sci-fi room, not crowded monitors, no floating brains or dense diagrams. Background softened sufficiently for portraits/title to dominate, but maintain the visibly bright lab. Dark diagonal text panel carries contrast, do not darken entire room.
+Natural skin colour with mild cool edge lighting and subtle warm face light. Crisp authentic photographic people, fine low-contrast pores and real age lines, smooth continuous lighting, real hair strands. No waxy/painterly/etched/swirl/mosaic/embossed/blotchy faces, plastic hair, artificial sharpening or identity drift.
+Very faint sparse golden foreground dust mainly lower half, restrained enough for bright lab setting, tiny muted flecks with few soft points, no glitter shower or bright sparks. Faces and type clean.
+One polished finished landscape PNG, correct exact headline, no additional logos, episode number, watermark, captions, people or unapproved objects.

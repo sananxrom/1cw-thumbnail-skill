@@ -1,0 +1,24 @@
+Tool mode: built-in image generation with original image references.
+
+Create one finished premium 1CW podcast YouTube thumbnail, landscape 16:9 PNG, following the attached series references with photographic people, an atmospheric contextual room, and huge condensed slanted typography. This is a fresh render from original assets, not a degraded edit.
+REFERENCE ROLES, in order:
+1 Eddie portrait = primary and strict identity anchor for LEFT host.
+2 Anirban Bandyopadhyay photo = RIGHT guest identity, expression and mint shirt.
+3 Quantum computer room = background visual reference, conceptual illustration of future quantum computing.
+4 AI+XR series thumbnail = typography/layout/style reference only.
+5 Robotic arm series thumbnail = composition/style reference only. Do not include those guests or their text.
+
+EXACT HEADLINE, three lines, no other copy:
+1,024 QUBITS
+INDIA’S
+NEXT LEAP?
+
+Layout: centre the overall text group on the ENTIRE canvas, approximately x=50%, with a generous spread in the central vertical region. First line upper-middle, supporting middle line, final line lower-middle. Do not place all text low on the canvas. Keep every word completely readable and face areas clear. Can overlap torsos and a small part of Eddie's gesturing hand. Main lines roughly equal visual width, compact rather than stretching into faces. First and third lines in Morganite ExtraBold: extremely tall, narrow, heavy letterforms closely matching attached series typography. First line white, final line bright yellow at top gently graduating to golden orange at bottom. Middle line INDIA’S smaller white Avenir Next Bold, centre aligned. Headline horizontal baselines rise to the right with approximately 6.5-degree vertical shear, vertical stems stay upright, matching references. Morganite tracking +10 Photoshop units (0.01em). Comfortable interline breathing space, approximately 20–26 px between slanted glyph edges at 1280x720 scale; coherent group, neither crowded nor disconnected. Soft restrained directional shadows subtly down-right, no heavy outline or extruded lettering. A wide softly faded near-black diagonal band behind title. Title may extend beyond band. No additional captions, labels, badges, qubit labels, logos, or episode numbers.
+
+EDDIE LEFT: prominent waist-up photographic cutout from left edge, head roughly left fifth of canvas, retaining torso and matching guest head scale. Must unmistakably be Eddie from original portrait: same facial structure, eye shape, nose, moustache and small grey goatee, age, complexion, and distinctive voluminous swept-up wavy/curly salt-and-pepper hair. Preserve identity over drama. Dark textured Indian waistcoat over white short-sleeved shirt. Modest fascinated expression, face in slight three-quarter turn toward the gold apparatus while still clearly visible, one hand raised open-palmed to present the machine. Anatomically convincing hand and arm. Avoid excessive profile turn or caricatured surprise. No headwear, no futuristic goggles or robotic body parts.
+
+ANIRBAN RIGHT: faithfully enhance the supplied guest image without redesigning his face. Preserve curly dark hair, moustache, animated speaking expression, leftward gaze, light mint-green collared shirt. Crop his outstretched arms naturally for frame and centre headline; retain some expressive gesture, without a hand cutting across text or faces. Show adequate torso, head similar scale to Eddie. Natural shirt extension if needed. Keep recognisable original face, subtle source cleanup, no invented age or excessive smoothing. Right edge crop for series look.
+
+BACKGROUND: the supplied grey metallic quantum-computer room, adapted wide behind people. Keep one recognisable hanging gold cylindrical quantum refrigeration apparatus toward upper centre, its gold tiers emerging above/around headline. Convey room depth through broad ceiling light lines and a few dark side rack forms, simplify and soften the tiny vents/wires. Darken the background substantially with a soft edge vignette, premium restrained charcoal/slate and gold palette. Do not crowd it with new machinery, interfaces, floating icons, nanobots or brains. Gold apparatus remains visible but less contrast than faces and title. Treat machine as conceptual background, no added institutional branding or claims of completed hardware.
+
+FINISH: natural photographic skin with smooth tonal transitions and real subtle pores, NO painted swirls, blotchy mottling, etched faces, artificial distressed grain, plastic skin or over-sharpening. Crisp believable hair edges, restrained warm gold rim-light integrates both people. Sparse very faded tiny golden foreground dust predominantly lower third, a few crossing clothing, never obscuring faces or type. Strong instant mobile readability and spacious polished collage matching supplied 1CW references. Output one final PNG.

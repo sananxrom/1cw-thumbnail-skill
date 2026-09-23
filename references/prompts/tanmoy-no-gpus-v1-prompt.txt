@@ -1,0 +1,31 @@
+Mode: built-in image generation tool, single render from original portraits, IIT Delhi background and original series style reference.
+Final headline and size hierarchy supplied by user.
+Episode link: https://www.youtube.com/watch?v=5q-ePMMYGNc
+
+Create ONE finished premium photographic 1CW/XROM YouTube podcast thumbnail, exact 16:9 landscape, single clean render from original identity photographs.
+INPUT ROLES:
+1 Prof Tanmoy guest photo: definitive identity for RIGHT. Preserve his face, short dark hair/receding hairline, beard, skin tone, serious speaking expression, navy shirt, red lanyard and headset microphone. REMOVE the embedded green/white lower-third caption and event graphic entirely. Enhance modestly and reconstruct torso beneath the graphic naturally. Do not copy mirrored or upside-down text from the source.
+2 IIT Delhi building photograph: actual background reference. Preserve recognizable architecture, soften and darken with premium blue-grey treatment, leaving upper building silhouette recognizable above text. No invented signage, empty server racks or additional graphics.
+3 Original Eddie portrait: PRIMARY LEFT identity reference. Maintain his exact recognizable facial structure, eyes, nose, mouth, age, skin tone, swept-up wavy salt-and-pepper hair, moustache and small grey goatee. Likeness has priority over dramatic expression.
+4 Original AI+XR thumbnail: STYLE ONLY for extraordinarily tall narrow Morganite ExtraBold type, white/yellow-orange hierarchy, diagonal panel, upwards shear, natural photographic collage. Do not copy that guest, wording or goggles.
+
+APPROVED HEADLINE, EXACT THREE LINES AND CASE:
+INDIA’S AI MISSION
+IIT PROFS HAVE
+NO GPUs!
+Line 1 SMALL white Avenir Next Bold, normal-width bold sans.
+Line 2 MID-SIZED white Morganite ExtraBold, very tall narrow condensed letterforms.
+Line 3 LARGEST dominant yellow-to-golden-orange Morganite ExtraBold: exact wording "NO GPUs!" with uppercase G P U and lowercase s, exclamation mark, no apostrophe. DO NOT replace with a question mark or all-uppercase GPUS.
+Main font must visually match the extremely elongated condensed Morganite ExtraBold of the original series; not Impact/Anton or wide block lettering. Subtle character tracking +10 Photoshop units (0.01em) on Morganite.
+Centre every line on same axis and centre whole text group on the WHOLE CANVAS. Balance approximate visual line widths by adjusting font sizes while preserving small/mid/large hierarchy. The middle line must remain compact, not stretch across faces. Approximately x=325–960, y=145–605 in 1280x720 composition, adapt tastefully. Clearly separated lines with comfortable slightly increased vertical breathing room (roughly 20–26px between slanted glyph edges at 1280x720), no touching or oversized empty gaps. Upward-to-right SHEAR approximately 6.5 degrees, vertical letter strokes upright, not italic or mere rotation. Soft faded translucent near-black diagonal band behind the group, text can extend beyond panel. Low-opacity soft directional drop shadow down-right, no heavy outlines, bevel or extrusion.
+
+PEOPLE/COMPOSITION:
+Eddie large left, Tanmoy large right, balanced head sizes and visible chest/torso down to bottom, edge-cropped outer shoulders, face margins safe. Extend guest's navy shirt naturally instead of over-enlarging his face. Do not include source caption card.
+Eddie wears familiar dark textured waistcoat over white short sleeve T-shirt, one anatomically natural hand raised palm-up near inner chest, a questioning gesture. Mild concerned disbelief and slightly raised eyebrows, close to original face, no extreme bulging eyes or exaggerated shocked mouth. Gaze toward centre/guest. No props, no headband, no robot limb or unrelated technology.
+Tanmoy faithful to original photo face and source posture/head angle, slight enhancement, existing headset microphone and navy shirt. Keep guest calm and serious, don't invent angry expression. No new clothes or accessories. Naturally reconstructed chest/lower torso consistent with photo.
+Text may overlap torsos or sit partly behind foreground hand, but never hide faces or key letters.
+BACKGROUND AND FINISH:
+Use supplied IIT Delhi facade as sole main background, premium subdued blue-grey with mild warm highlights. Recognizable building, softly faded landscaping, no need to reproduce small background writing. Keep it quieter than faces and words, no added lab interior or crowded monitors.
+Clean photographic skin with fine unobtrusive pores, authentic age lines and continuous lighting, real fine hair strands. No waxy, painted, etched, swirling, mosaic, embossed or blotchy skin texture; no over-sharpened faces, beauty filtering or identity drift. Start from original portraits, don't inherit earlier generated facial textures.
+Restrained cool rim light and gentle warm integration. Sparse subtle faded golden foreground dust across lower half/clothing, tiny muted specks with few small soft points. Not dense glitter/sparks, eyes and text clean.
+Output one finished landscape PNG, exact headline and exclamation mark, no watermark, extra logos, captions, episode numbers, added people or extraneous objects.

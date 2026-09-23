@@ -1,0 +1,4 @@
+interface:
+  display_name: "1CW Thumbnail Studio"
+  short_description: "Create consistent 1CW podcast thumbnails"
+  default_prompt: "Use $1cw-thumbnails to propose headline and visual options for my next episode, then render after I confirm."

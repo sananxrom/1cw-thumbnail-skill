@@ -1,0 +1,233 @@
+{
+  "prepared_date": "2026-09-24",
+  "files": [
+    {
+      "path": "assets/identity/eddie-original.png",
+      "source_filename": "Eddie_potrait.png",
+      "role": "Original identity photograph",
+      "bytes": 800411,
+      "width": 647,
+      "height": 993,
+      "sha256": "391c3fe9b9e3929050379236d63a95447bc16a6e91338e134ac759b0d05d83bb"
+    },
+    {
+      "path": "assets/style/toctw-340-robot-arm.png",
+      "source_filename": "Toctw_340.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1202653,
+      "width": 1280,
+      "height": 720,
+      "sha256": "dde9767d5f09b54592df208fa81d6901d2385d5f39817f891b9b92be81af43a8"
+    },
+    {
+      "path": "assets/style/toctw-343-quantum.png",
+      "source_filename": "Toctw_343_2.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1145561,
+      "width": 1280,
+      "height": 720,
+      "sha256": "945fc6c6c1dd4ac5b51b3b01b2f1721c19b7c214fd184bc94488e52b6c2fb624"
+    },
+    {
+      "path": "assets/style/toctw-344-xr.png",
+      "source_filename": "Toctw_344.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1012860,
+      "width": 1280,
+      "height": 720,
+      "sha256": "0c2b500695ebb58ba9c7a30641df1283feeb5c0fd051fb41daa9033411eab5c3"
+    },
+    {
+      "path": "assets/style/toctw-345-alzheimers.png",
+      "source_filename": "Toctw_345.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1259805,
+      "width": 1280,
+      "height": 720,
+      "sha256": "c12e78ffd3f026b2f465912c3f008e4ef0206b3dfee3c22d87cfd2527fd7c10e"
+    },
+    {
+      "path": "assets/style/toctw-346-polygon.png",
+      "source_filename": "Toctw_346.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1116687,
+      "width": 1280,
+      "height": 720,
+      "sha256": "a35edeb9ceffc1c68e3bec007f4e618e0ec76ff84be157823d1f3704fd7de9eb"
+    },
+    {
+      "path": "assets/style/toctw-347-psychedelics.png",
+      "source_filename": "Toctw_347.png",
+      "role": "Original user-designed style reference",
+      "bytes": 1209319,
+      "width": 1280,
+      "height": 720,
+      "sha256": "b6fb348035684b6b78a312b49fa640773eee8e32b53ca3d342c823b88c406c4d"
+    },
+    {
+      "path": "assets/approved/anirban-1024-qubits-v1.png",
+      "source_filename": "anirban-1024-qubits-v1.png",
+      "role": "Recent generated output positively reviewed by user",
+      "bytes": 2242206,
+      "width": 1672,
+      "height": 941,
+      "sha256": "3ed03c9f2c34bb17ca391ae726cf45790ed65600401a3b9fe07d812aa34aea3f"
+    },
+    {
+      "path": "assets/approved/adrian-ai-biotech-godmode-v1.png",
+      "source_filename": "adrian-ai-biotech-godmode-v1.png",
+      "role": "Recent generated output positively reviewed by user",
+      "bytes": 2248505,
+      "width": 1672,
+      "height": 941,
+      "sha256": "1f42ad785e0b4d9fc1779193a2c486afd7d019d3ee9d910f8336f525eec8c8a7"
+    },
+    {
+      "path": "references/prompts/adrian-ai-biotech-godmode-v1-prompt.txt",
+      "source_filename": "adrian-ai-biotech-godmode-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 4978,
+      "sha256": "00460459cdc7c79c1d01dd1d7e2a09fa56f97e72994395cd09ce89d33b8f0675"
+    },
+    {
+      "path": "references/prompts/anirban-1024-qubits-v1-prompt.txt",
+      "source_filename": "anirban-1024-qubits-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 4878,
+      "sha256": "1c1fbc4d3fefb4f4653ae5b27efc45659cf093d1c126497fc5105c6df78a36f7"
+    },
+    {
+      "path": "references/prompts/annie-mini-brain-40-days-v1-prompt.txt",
+      "source_filename": "annie-mini-brain-40-days-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5879,
+      "sha256": "b78ad7b3f4cd822c51b9cd1015f389ce617d2d544a352c93807e3c96de56dcfb"
+    },
+    {
+      "path": "references/prompts/aubrey-live-to-1000-v1-prompt.txt",
+      "source_filename": "aubrey-live-to-1000-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5750,
+      "sha256": "32ba93e268f29c0b42ec2155e57d648b6e5fdab1a77bf215ce06bb11c4929f5d"
+    },
+    {
+      "path": "references/prompts/babak-brain-inspired-chips-v1-prompt.txt",
+      "source_filename": "babak-brain-inspired-chips-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5210,
+      "sha256": "00ff29c4d5c845b4252fe8bb497b971ddb304d47efeea8338a26f2067f0ee377"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v1-prompt.txt",
+      "source_filename": "india-maps-the-brain-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 4086,
+      "sha256": "9a058eff5c5fe15a26d9affcdbf5076b2068c9f5eac8a9d5e1eb1f1637f0c7cc"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v2-prompt.txt",
+      "source_filename": "india-maps-the-brain-v2-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 3004,
+      "sha256": "b2d04e42559a4a911d50f5dc00c5869d315e7481d08275baeb7689a0b6c1f2c8"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v3-prompt.txt",
+      "source_filename": "india-maps-the-brain-v3-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 4625,
+      "sha256": "5cf94a205a3336b87dde5e0dff10c4982609a1c324188070e64f8dc1369eb419"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v4-prompt.txt",
+      "source_filename": "india-maps-the-brain-v4-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 1632,
+      "sha256": "c0aba7e265a6c0aa198ae36ff71ebea6eca53952fc0e79196418be94c9b646c9"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v5-prompt.txt",
+      "source_filename": "india-maps-the-brain-v5-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 2519,
+      "sha256": "f29e6c7eaf2e9ebcb57dd22ec5c688ab62028ca6454d3abc37b20c06d4292106"
+    },
+    {
+      "path": "references/prompts/india-maps-the-brain-v6-prompts.txt",
+      "source_filename": "india-maps-the-brain-v6-prompts.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 7746,
+      "sha256": "0d51cf789ef4fe8c7c9c5f9845f7c1485904c70de81f07818be2592bd58df273"
+    },
+    {
+      "path": "references/prompts/karthik-risc-v-masterplan-v1-prompt.txt",
+      "source_filename": "karthik-risc-v-masterplan-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5921,
+      "sha256": "aa6f99b03485cea42002a0dd866f3f71d0a2a8e76787e9bda21c9b614e26963b"
+    },
+    {
+      "path": "references/prompts/kate-spud-cell-v1-prompt.txt",
+      "source_filename": "kate-spud-cell-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5739,
+      "sha256": "7ef89dd26fc17cd0ad3a7721869b3ef9147f06ce8f202f9df7f7e9381ee4fecd"
+    },
+    {
+      "path": "references/prompts/le-cong-ai-xr-coscientist-v1-prompt.txt",
+      "source_filename": "le-cong-ai-xr-coscientist-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5626,
+      "sha256": "8199d9ef6057a4584e011f3664cafe29cd0b644f2ca115a7275c159047c71c03"
+    },
+    {
+      "path": "references/prompts/nitin-primes-solved-v1-prompt.txt",
+      "source_filename": "nitin-primes-solved-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5279,
+      "sha256": "a7e75d7bb46cf361866cbaac14e5f2bae2714271e07816de7ef37757321ac030"
+    },
+    {
+      "path": "references/prompts/peter-singer-ai-in-war-v1-prompt.txt",
+      "source_filename": "peter-singer-ai-in-war-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5188,
+      "sha256": "7942cf61f61ef639535abc60f10b4825359f967ba061be33c010fb96e9157413"
+    },
+    {
+      "path": "references/prompts/rajesh-black-hole-v1-prompt.txt",
+      "source_filename": "rajesh-black-hole-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5767,
+      "sha256": "5b5822d33ac72e00db278631307ee4b7ea8f2eb75dc37e50f6d139a929ba87f5"
+    },
+    {
+      "path": "references/prompts/sourav-robotics-revolution-v1-prompt.txt",
+      "source_filename": "sourav-robotics-revolution-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 6224,
+      "sha256": "a8994cbf38c27a879ed54190e2c3aca0e026684c5191ba45f99c347d8f58506b"
+    },
+    {
+      "path": "references/prompts/tanmoy-no-gpus-v1-prompt.txt",
+      "source_filename": "tanmoy-no-gpus-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5171,
+      "sha256": "4da8b03f5930a57586ea8aefe68ac406d7866fda7ee61ae425211d5fcc40d390"
+    },
+    {
+      "path": "references/prompts/vijay-top-scientist-v1-prompt.txt",
+      "source_filename": "vijay-top-scientist-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 5805,
+      "sha256": "5cddcbccd18bb50dd3b6b209174f4999867c5d8e394e76422ddc8744bac55fa9"
+    },
+    {
+      "path": "references/prompts/vineeth-reasoning-agents-v1-prompt.txt",
+      "source_filename": "vineeth-reasoning-agents-v1-prompt.txt",
+      "role": "Historical saved prompt document",
+      "bytes": 6463,
+      "sha256": "234130799aae76b1040ebd275a9431f91c68d46b1a7c7a9c96b671dc0bc62165"
+    }
+  ]
+}
