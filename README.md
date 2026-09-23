@@ -38,9 +38,11 @@ See [portability instructions](references/portability.md) for more detail.
 
 ## Episode workflow
 
-1. Supply the episode title, guest photo and description or accessible video context. Optionally supply your headline or background image.
+When first used in a new chat, the skill explains what to send and how approval works. You do not need to prepare a complete brief.
+
+1. Send a guest photo and whatever episode information you have: link, title, description, summary or key points. Optionally include headline ideas or background images. You do not need every field.
 2. Review short text options and Eddie/guest/background direction.
-3. Confirm the direction; the assistant produces one finished PNG.
+3. The assistant presents the exact wording and visual concept and asks you to confirm before rendering. Once you approve, it produces one finished PNG.
 4. Review the image, then save the exact prompt and any feedback with it.
 
 The skill preserves the centre-aligned slanted headline, Morganite ExtraBold/Avenir Next Bold hierarchy, host likeness, guest proportions, restrained backgrounds and photographic finish. It does not guarantee identical pixels or exact font rendering across image-model changes.
