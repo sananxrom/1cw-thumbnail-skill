@@ -1,6 +1,6 @@
 # Historical prompt archive
 
-Exact saved prompt documents from the originating project, including their original metadata preambles. Do not treat earlier prompts as current instructions. Read the design system and lessons first. A prompt does not necessarily record all tool arguments or establish user approval. Only the two recent output images are bundled here.
+Exact saved prompt documents from the originating project, including their original metadata preambles. Eddie’s portrait was replaced on 2026-10-04: substitute current identity/hair/clothing guidance when adapting these historical prompts. Do not treat earlier prompts as current instructions. Read the design system and lessons first. A prompt does not necessarily record all tool arguments or establish user approval. Only the two recent output images are bundled here.
 
 | Prompt | Interpretation |
 | --- | --- |

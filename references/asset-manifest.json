@@ -3,12 +3,13 @@
   "files": [
     {
       "path": "assets/identity/eddie-original.png",
-      "source_filename": "Eddie_potrait.png",
-      "role": "Original identity photograph",
-      "bytes": 800411,
-      "width": 647,
-      "height": 993,
-      "sha256": "391c3fe9b9e3929050379236d63a95447bc16a6e91338e134ac759b0d05d83bb"
+      "source_filename": "Eddie Avil.png",
+      "role": "Current host source identity photograph; replaces earlier portrait",
+      "bytes": 1072337,
+      "width": 1248,
+      "height": 832,
+      "sha256": "f375128d6dec13e73e888a59358a622b0bd6c599c66781cde254fda88a612fb7",
+      "updated_date": "2026-10-04"
     },
     {
       "path": "assets/style/toctw-340-robot-arm.png",
@@ -229,5 +230,6 @@
       "bytes": 6463,
       "sha256": "234130799aae76b1040ebd275a9431f91c68d46b1a7c7a9c96b671dc0bc62165"
     }
-  ]
+  ],
+  "updated_date": "2026-10-04"
 }

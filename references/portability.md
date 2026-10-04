@@ -16,7 +16,7 @@ An ordinary new chat does not inherit the original conversation or automatically
 
 ## Suggested fresh-chat request
 
-> Use the attached/installed 1cw-thumbnails skill. Read SKILL.md and the linked design and asset references, and inspect Eddie's original portrait plus the XR and robot-arm thumbnails. My new episode is [title]. Here is the guest photograph and episode description: [context]. Propose concise thumbnail text and Eddie/guest/background direction first. Wait for my selection before rendering. Preserve the original faces and save the final PNG and exact prompt.
+> Use the attached/installed 1cw-thumbnails skill. Read SKILL.md and the linked design and asset references, and inspect Eddie's current source portrait plus the XR and robot-arm thumbnails. My new episode is [title]. Here is the guest photograph and episode description: [context]. Propose concise thumbnail text and Eddie/guest/background direction first. Wait for my selection before rendering. Preserve the original faces and save the final PNG and exact prompt.
 
 ## Missing assets
 

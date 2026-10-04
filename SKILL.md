@@ -23,7 +23,7 @@ Do not ask again for material already provided. If the first message contains en
 
 ## Load the right context
 
-For a new episode, read [design-system.md](references/design-system.md), [assets.md](references/assets.md), and [generation.md](references/generation.md). Visually inspect Eddie's original portrait, the two primary original thumbnails and the new guest photo. Read [prompt-template.md](references/prompt-template.md) and one relevant successful archived prompt when preparing a render; do not load the entire archive.
+For a new episode, read [design-system.md](references/design-system.md), [assets.md](references/assets.md), and [generation.md](references/generation.md). Visually inspect Eddie's current source portrait, the two primary original thumbnails and the new guest photo. Read [prompt-template.md](references/prompt-template.md) and one relevant successful archived prompt when preparing a render; do not load the entire archive.
 
 Resolve paths relative to this skill folder. Find bundled files before relying on remembered machine-specific paths. If files are unavailable, use [portability.md](references/portability.md). Do not generate Eddie from a written description alone when his portrait is missing.
 
@@ -38,7 +38,7 @@ Resolve paths relative to this skill folder. Find bundled files before relying o
 
 ## Essential rules
 
-- Eddie always LEFT, guest usually RIGHT. Eddie's original face and signature hair anchor identity; dramatic poses must not override likeness. Pose/accessories should embody the topic.
+- Eddie always LEFT, guest usually RIGHT. Eddie's current source photo (updated 2026-10-04) anchors his face and shorter salt-and-pepper hairstyle; older thumbnails are style references only and must not override his current appearance; dramatic poses must not override likeness. Pose/accessories should embody the topic.
 - Guest face, expression and outfit remain faithful by default. Natural cropping and torso/clothing extension are approved for proportion; significant wardrobe/pose changes need episode-specific direction.
 - Large type: Morganite ExtraBold, extremely tall and condensed, tracking +10 Photoshop units (0.01em). Small type: Avenir Next Bold. White and yellow-to-orange emphasis.
 - Centre the text group on the whole canvas. Upright stems with approximately 6.5° upward-to-right shear. Balanced row widths and comfortable vertical gaps. Overlap torsos/props if useful; keep faces and copy readable. Offset is optional.

@@ -6,6 +6,10 @@ The user supplies title, guest picture and episode context, sometimes exact text
 
 Original XR and robot-arm designs are the strongest style anchors because topic, Eddie pose and accessories work together. All six original designs belong to the same style; their palettes and line counts differ. The latest two renders were followed by the user's positive feedback that the images were now working well, and are current calibration examples.
 
+## Current identity update — 2026-10-04
+
+The user replaced Eddie’s source portrait with Eddie Avil.png. New episodes must use its current face, shorter salt-and-pepper hair and source appearance. Earlier tall-hair/waistcoat instructions in archived prompts are historical and superseded. Pose and accessories may still change by approved concept; the microphone is not mandatory.
+
 ## Refinements in order of relevance
 
 - After Vineeth: Eddie must look like Eddie; preserve original likeness ahead of pose drama. Hair is especially characteristic.

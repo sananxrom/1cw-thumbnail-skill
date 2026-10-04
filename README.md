@@ -28,11 +28,11 @@ If that folder already exists, use the existing installation or review an update
 
 **ChatGPT:** provide the Markdown documents and actual image references in the project/chat. Upload the full ZIP if the environment can extract it, or attach the core files separately. Ask ChatGPT to follow `SKILL.md`. A repository URL alone does not guarantee that the image generator can access the reference pixels.
 
-For a minimal fresh-chat reference set, supply Eddie's original portrait, the original XR and robot-arm thumbnails, the skill documents, and your new guest photograph. The [asset index](references/assets.md) links each file and explains when the additional examples help.
+For a minimal fresh-chat reference set, supply Eddie's current source portrait, the original XR and robot-arm thumbnails, the skill documents, and your new guest photograph. The [asset index](references/assets.md) links each file and explains when the additional examples help.
 
 Example request:
 
-> Use the 1CW thumbnail skill. Here are my next episode title, description and guest photograph. Inspect Eddie's original portrait and the XR/robot-arm style references. Suggest short headline options and visual direction first; wait for my approval before generating.
+> Use the 1CW thumbnail skill. Here are my next episode title, description and guest photograph. Inspect Eddie's current source portrait and the XR/robot-arm style references. Suggest short headline options and visual direction first; wait for my approval before generating.
 
 See [portability instructions](references/portability.md) for more detail.
 
@@ -53,7 +53,7 @@ The latest approved examples used Codex's built-in image-generation tool with or
 
 ## What is included
 
-- Original Eddie portrait and six original thumbnail style references.
+- Current Eddie portrait (updated 2026-10-04) and six original thumbnail style references.
 - Recent Anirban and Adrian rendered examples.
 - All 21 saved historical prompt documents, indexed with caveats where later feedback supersedes them.
 - Reusable prompt template, detailed design rules and asset hash manifest.

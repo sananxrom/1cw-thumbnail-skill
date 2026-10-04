@@ -13,12 +13,12 @@ Both latest renders requested 16:9 and returned **1672 × 941 PNG**, very close 
 - Adrian: original Eddie; original Adrian portrait; original XR thumbnail; original robotic-arm thumbnail.
 - Anirban: original Eddie; original Anirban portrait; supplied quantum-room image; original XR thumbnail; original robotic-arm thumbnail.
 
-Exact prompts are archived and latest PNGs bundled. Historic guest portraits/backgrounds are not all bundled; they are not needed for new episodes. An exact historic replay requires its source inputs as well as its prompt.
+Exact prompts are archived and latest PNGs bundled. Historic guest portraits/backgrounds are not all bundled; they are not needed for new episodes. An exact historic replay requires its source inputs as well as its prompt. The Eddie asset was replaced on 2026-10-04; the historical Adrian/Anirban renders used the earlier waistcoat portrait, which is no longer the active bundled identity. For new episodes, replace old hair/clothing directions in archived prompts with the current portrait guidance.
 
 ## Portable execution
 
 1. Read the current tool schema; availability and argument names can change. Prefer built-in generation. No API key was needed in the original workflow.
-2. Inspect sources visually. Supply original Eddie, new guest, usually original XR and robot-arm thumbnails, plus a supplied episode background if useful. Label every input's role and order. A recent output may calibrate layout; do not use its generated face as the sole identity reference.
+2. Inspect sources visually. Supply the current Eddie source portrait, new guest, usually original XR and robot-arm thumbnails, plus a supplied episode background if useful. Label every input's role and order. A recent output may calibrate layout; do not use its generated face as the sole identity reference.
 3. Build one consolidated prompt from the approved brief and current design rules. Preserve exact text. Do not pass Markdown files as image inputs.
 4. Render once and review. Save PNG, exact prompt and a record of actual reference order, exposed tool/model/settings, output dimensions and approval status. Unknown values stay unknown.
 5. Use descriptive sibling versions: `guest-hook-v1.png`, `guest-hook-v1-prompt.txt`, `guest-hook-v1-record.json`. Preserve originals and approved files.
