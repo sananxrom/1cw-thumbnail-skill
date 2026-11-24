@@ -21,6 +21,10 @@ Eddie left and guest right, large edge-cropped photographic figures. Similar hea
 
 Image generation approximates font appearance. Actual font files are needed for exact later typesetting; no fonts are bundled or required for the initial image render.
 
+## Guest-credit spacing
+
+When a “with …” guest-credit line is requested, place it distinctly lower near the lower centre, with a generous clear gap above it, separate from the main headline. Keep a safe bottom margin; do not tightly stack it as an ordinary headline row. This does not require adding a guest credit when none was requested. The fresh Eliot render used approximately 65–85px clear separation at 1280 × 720 scale as a calibration; adapt to the layout rather than treating it as a fixed measurement.
+
 ## Scene and finish
 
 Simple premium topic-appropriate environment. A believable lab, quantum room or institutional setting should have a few broad cues and depth, rather than an empty gradient or a mass of micro-objects. Topic can justify space, an airfield or another setting; do not force every episode into a lab.

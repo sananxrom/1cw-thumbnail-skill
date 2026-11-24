@@ -17,7 +17,8 @@ EXACT APPROVED COPY AND LINE BREAKS:
 [line 1]
 [line 2]
 [optional line 3 or 4]
-No additional text.
+[If a guest credit was approved: place the exact credit as a separate small white Avenir Next Bold line much lower near the bottom centre, leaving a conspicuous gap above and a safe bottom margin. Do not tuck it directly under the headline.]
+No unapproved additional text.
 
 TYPE: [explicit line-by-line font, relative size and colour hierarchy]. Large type Morganite ExtraBold, exceptionally tall narrow heavy letterforms. Small supporting type Avenir Next Bold. Morganite tracking +10 Photoshop units, 0.01em. Centre group on whole canvas, approximately x=50%; balance row widths while allowing chosen emphasis. Generous vertical spread and comfortable gaps, roughly 20–26px at 1280x720 scale when appropriate. Upward-to-right shear ~6.5°, vertical strokes upright. White and yellow-to-golden-orange emphasis. Soft restrained down-right shadow; faded near-black diagonal panel. Type can overlap torsos/props or extend beyond the panel; keep faces and all copy readable. Do not force a long phrase into an overwide row.
 
